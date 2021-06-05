@@ -6,15 +6,17 @@ Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana y
 
 Este primer post trata sobre la obesidad infantil como parte del trabajo personal para la asignatura P.S.P.
 
-```markdown
 
-# Justificación
-# Información
-# Reflexión Personal
-# Bibliografía
+
+#### Justificación
+#### Información
+#### Reflexión Personal
+#### Bibliografía
 
 ## Header 2
 ### Header 3
+
+```markdown
 
 - Bulleted
 - List
@@ -29,9 +31,6 @@ Este primer post trata sobre la obesidad infantil como parte del trabajo persona
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taravika/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contacto
 

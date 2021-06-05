@@ -35,4 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contacto
 
-Puedes contactarme en la dirección vafovi
+Puedes contactarme en la dirección vafovi@hotmail.com

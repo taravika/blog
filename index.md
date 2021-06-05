@@ -7,9 +7,12 @@ Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana y
 Este primer post trata sobre la obesidad infantil como parte del trabajo personal para la asignatura P.S.P.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
+# Justificación
+# Información
+# Reflexión Personal
+# Bibliografía
+
 ## Header 2
 ### Header 3
 
@@ -30,6 +33,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taravika/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contacto
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Puedes contactarme en la dirección vafovi

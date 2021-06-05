@@ -7,6 +7,11 @@ Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana
 Este primer post trata sobre la obesidad infantil como parte del trabajo personal para la asignatura P.S.P.
 
 #### Justificación
+
+![Infografía obesidad infantil](https://www.antavillaschool.com/wp-content/uploads/2018/11/obesidad-infantil-un-compromiso-con-el-que-luchar.jpg)
+
+Personalmente he elegido este tema porque, como madre, es una de las preocupaciones que más me llama la atención. Es algo que a priori puede parecer menos serio que otras enfermedades, pero que entrando al detalle se ve que trae graves consecuencias.
+
 #### Información
 
 - Definición

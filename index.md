@@ -1,6 +1,6 @@
 ## Mi Blog
 
-Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana y particularmente de la asignatura P.S.P.
+Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana
 
 ### Obesidad infantil
 

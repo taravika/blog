@@ -10,7 +10,7 @@ Este primer post trata sobre la obesidad infantil como parte del trabajo persona
 
 ![Infografía obesidad infantil](https://www.antavillaschool.com/wp-content/uploads/2018/11/obesidad-infantil-un-compromiso-con-el-que-luchar.jpg)
 
-Personalmente he elegido este tema porque, como madre, es una de las preocupaciones que más me llama la atención. Es algo que a priori puede parecer menos serio que otras enfermedades, pero que entrando al detalle se ve que trae graves consecuencias.
+Personalmente he elegido este tema porque, como madre, es una de las preocupaciones que más me llama la atención. Es algo que a priori puede parecer menos serio que otras enfermedades, pero que entrando al detalle se ve que trae graves consecuencias. Es un tema que me llama la atención para entrar en el detalle, y en la medida de lo posible, poner mi granito de arena en la solución global.
 
 #### Información
 
@@ -74,6 +74,10 @@ La industria alimentaria puede desempeñar una función importante para reducir 
 3. realizar una promoción responsable dirigida a los padres de los lactantes y los niños.
 
 #### Reflexión Personal
+
+Después de realizar la investigación para este trabajo, me deja aún mas preocupada. La obesidad infantil es algo que lleva a otras consecuencias más graves, la tendencia es completamente negativa y motivada por el cambio de la sociedad. El reducir los tiempos dedicados a las comidas, tanto de preparación como de ingesta, la reducción de la lactancia, la promoción de bebidas calóricas y el aumento de comidas rápidas extracalóricas son consecuencias de la tendendencia que se aprecia.
+Pienso que es algo con solución, poniendo en práctica los consejos de la OMS, evitando aun más la promoción de bebidas azucaradas y restaurantes de comida rápida así como realizar más campañas de concienciación de la sociedad.
+
 #### Bibliografía
 
 - [Oranización mundial de la salud](https://www.who.int/dietphysicalactivity/childhood/es/)

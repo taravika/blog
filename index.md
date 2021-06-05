@@ -65,8 +65,8 @@ La industria alimentaria puede desempeñar una función importante para reducir 
 #### Reflexión Personal
 #### Bibliografía
 
-[Oranización mundial de la salud](https://www.who.int/dietphysicalactivity/childhood/es/)
-[Portal estadístico Statista] (https://cdn.statcdn.com/Infographic/images/normal/24340.jpeg)
+- [Oranización mundial de la salud](https://www.who.int/dietphysicalactivity/childhood/es/)
+- [Portal estadístico Statista] (https://es.statista.com/grafico/24340/numero-previsto-de-ninos-de-5-a-19-anos-con-obesidad/)
 
 
 

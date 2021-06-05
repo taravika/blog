@@ -75,7 +75,7 @@ La industria alimentaria puede desempeñar una función importante para reducir 
 
 #### Reflexión Personal
 
-Después de realizar la investigación para este trabajo, me deja aún mas preocupada. La obesidad infantil es algo que lleva a otras consecuencias más graves, la tendencia es completamente negativa y motivada por el cambio de la sociedad. El reducir los tiempos dedicados a las comidas, tanto de preparación como de ingesta, la reducción de la lactancia, la promoción de bebidas calóricas y el aumento de comidas rápidas extracalóricas son consecuencias de la tendendencia que se aprecia.
+Después de realizar la investigación para este trabajo, me deja aún mas preocupada. La obesidad infantil es algo que lleva a otras consecuencias más graves, la tendencia es completamente negativa y motivada por el cambio de la sociedad. El reducir los tiempos dedicados a las comidas, tanto de preparación como de ingesta, la reducción de la lactancia, la promoción de bebidas calóricas y el aumento de comidas rápidas extracalóricas son consecuencias de la tendencia que se aprecia.
 Pienso que es algo con solución, poniendo en práctica los consejos de la OMS, evitando aun más la promoción de bebidas azucaradas y restaurantes de comida rápida así como realizar más campañas de concienciación de la sociedad.
 
 #### Bibliografía

@@ -4,19 +4,16 @@ Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana
 
 ### Obesidad infantil
 
-```markdown
-
 Este primer post trata sobre la obesidad infantil como parte del trabajo personal para la asignatura P.S.P.
 
-1. Justificación
-2. Información
-3. Reflexión Personal
-4. Bibliografía
+#### Justificación
+#### Información
+#### Reflexión Personal
+#### Bibliografía
 
 
 
 [Link](url) and ![Image](src)
-```
 
 ### Contacto
 

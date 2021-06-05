@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Mi Blog
 
-You can use the [editor on GitHub](https://github.com/taravika/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana y particularmente de la asignatura PSP
 
 ### Markdown
 

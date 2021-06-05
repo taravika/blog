@@ -25,6 +25,12 @@ Si comparamos las cifras entre 5 y 19 años, los datos pasarán de 158 millones 
 
 ![Año 2030](https://cdn.statcdn.com/Infographic/images/normal/24340.jpeg)
 
+- Situación en España
+
+En comparación con el resto de países de Europa, España se sitúa en una posición intermedia en el porcentaje de adultos obesos. Sin embargo, en lo que se refiere a la población infantil, nuestro país presenta una de las cifras más altas, sólo comparable a las de otros países mediterráneos. Así, en los niños españoles de 10 años la prevalencia de obesidad es sólo superada en Europa por los niños de Italia, Malta y Grecia. El número de niños obesos en nuestro país ha experimentado un aumento preocupante en la última década, provocado por los hábitos alimentarios y sendentarios.
+
+![Año 2017 detalle por comunidades](https://u.pcloud.link/publink/show?code=XZdA8MXZHrDnnzDS8QLCA8zdUkX0LXMig08y)
+
 - Consecuencias
 
 La obesidad infantil está asociada a una amplia gama de complicaciones de salud graves y a un creciente riesgo de contraer enfermedades prematuramente, entre ellas, diabetes y cardiopatías. Los niños obesos y con sobrepeso tienden a seguir siendo obesos en la edad adulta y tienen más probabilidades de padecer a edades más tempranas enfermedades no transmisibles como la diabetes y las enfermedades cardiovasculares. El sobrepeso, la obesidad y las enfermedades conexas son en gran medida prevenibles. Por consiguiente, hay que dar una gran prioridad a la prevención de la obesidad infantil.
@@ -66,7 +72,8 @@ La industria alimentaria puede desempeñar una función importante para reducir 
 #### Bibliografía
 
 - [Oranización mundial de la salud](https://www.who.int/dietphysicalactivity/childhood/es/)
-- [Portal estadístico Statista] (https://es.statista.com/grafico/24340/numero-previsto-de-ninos-de-5-a-19-anos-con-obesidad/)
+- [Portal estadístico Statista](https://es.statista.com/grafico/24340/numero-previsto-de-ninos-de-5-a-19-anos-con-obesidad/)
+- [Ministerio de sanidad](https://www.mscbs.gob.es/estadEstudios/sanidadDatos/tablas/tabla10.htm)
 
 
 

@@ -2,11 +2,11 @@
 
 Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana y particularmente de la asignatura P.S.P.
 
+```markdown
+
 ### Obesidad infantil
 
 Este primer post trata sobre la obesidad infantil como parte del trabajo personal para la asignatura P.S.P.
-
-
 
 #### Justificación
 #### Información
@@ -15,8 +15,6 @@ Este primer post trata sobre la obesidad infantil como parte del trabajo persona
 
 ## Header 2
 ### Header 3
-
-```markdown
 
 - Bulleted
 - List
@@ -28,9 +26,6 @@ Este primer post trata sobre la obesidad infantil como parte del trabajo persona
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 
 ### Contacto
 

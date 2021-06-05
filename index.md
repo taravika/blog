@@ -75,10 +75,6 @@ La industria alimentaria puede desempeñar una función importante para reducir 
 - [Portal estadístico Statista](https://es.statista.com/grafico/24340/numero-previsto-de-ninos-de-5-a-19-anos-con-obesidad/)
 - [Ministerio de sanidad](https://www.mscbs.gob.es/estadEstudios/sanidadDatos/tablas/tabla10.htm)
 
-
-
-[Link](url) and ![Image](src)
-
 ### Contacto
 
 Puedes contactarme en la dirección vafovi@hotmail.com

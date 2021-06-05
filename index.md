@@ -1,10 +1,10 @@
 ## Mi Blog
 
-Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana y particularmente de la asignatura PSP
+Estás en el Blog de Vanessa F.V, alumna de T.C.A.E. en la academia Cabruñana y particularmente de la asignatura P.S.P.
 
-### Markdown
+### Obesidad infantil
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Este primer post trata sobre la obesidad infantil como parte del trabajo personal para la asignatura P.S.P.
 
 ```markdown
 Syntax highlighted code block

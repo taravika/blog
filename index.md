@@ -17,6 +17,10 @@ La prevalencia del sobrepeso y la obesidad en niños y adolescentes se define de
 
 La obesidad infantil es uno de los problemas de salud pública más graves del siglo XXI. El problema es mundial y está afectando progresivamente a muchos países de bajos y medianos ingresos, sobre todo en el medio urbano. La prevalencia ha aumentado a un ritmo alarmante. Se calcula que en 2016, más de 41 millones de niños menores de cinco años en todo el mundo tenían sobrepeso o eran obesos. Cerca de la mitad de los niños menores de cinco años con sobrepeso u obesidad vivían en Asia y una cuarta parte vivían en África.
 
+- Definición del problema
+
+Los niños obesos y con sobrepeso tienden a seguir siendo obesos en la edad adulta y tienen más probabilidades de padecer a edades más tempranas enfermedades no transmisibles como la diabetes y las enfermedades cardiovasculares. El sobrepeso, la obesidad y las enfermedades conexas son en gran medida prevenibles. Por consiguiente, hay que dar una gran prioridad a la prevención de la obesidad infantil.
+
 #### Reflexión Personal
 #### Bibliografía
 

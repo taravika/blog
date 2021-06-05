@@ -34,7 +34,7 @@ Si comparamos las cifras entre 5 y 19 años, los datos pasarán de 158 millones 
 
 En comparación con el resto de países de Europa, España se sitúa en una posición intermedia en el porcentaje de adultos obesos. Sin embargo, en lo que se refiere a la población infantil, nuestro país presenta una de las cifras más altas, sólo comparable a las de otros países mediterráneos. Así, en los niños españoles de 10 años la prevalencia de obesidad es sólo superada en Europa por los niños de Italia, Malta y Grecia. El número de niños obesos en nuestro país ha experimentado un aumento preocupante en la última década, provocado por los hábitos alimentarios y sendentarios.
 
-![Tabla por comunidades de España](https://github.com/taravika/blog/blob/gh-pages/ObesidadInfantilEspa%C3%B1a.png?raw=true)
+![Tabla por comunidades de España](https://raw.githubusercontent.com/taravika/blog/gh-pages/ObesidadInfantilEspa%C3%B1a.png)
 
 - Consecuencias
 

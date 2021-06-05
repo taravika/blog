@@ -21,6 +21,10 @@ La obesidad infantil es uno de los problemas de salud pública más graves del s
 
 En todo el mundo, el número de lactantes y niños pequeños (de 0 a 5 años) que padecen sobrepeso u obesidad aumentó de 32 millones en 1990 a 41 millones en 2016. Solo en la Región de África de la OMS, el número de niños con sobrepeso u obesidad aumentó de 4 a 9 millones en el mismo periodo. Si se mantienen las tendencias actuales, el número de lactantes y niños pequeños con sobrepeso aumentará a 70 millones para 2025.
 
+Si comparamos las cifras entre 5 y 19 años, los datos pasarán de 158 millones en 2020 a 254 millones en 2030, casi 1 millón previsto en España:
+
+![Año 2030](https://cdn.statcdn.com/Infographic/images/normal/24340.jpeg)
+
 - Consecuencias
 
 La obesidad infantil está asociada a una amplia gama de complicaciones de salud graves y a un creciente riesgo de contraer enfermedades prematuramente, entre ellas, diabetes y cardiopatías. Los niños obesos y con sobrepeso tienden a seguir siendo obesos en la edad adulta y tienen más probabilidades de padecer a edades más tempranas enfermedades no transmisibles como la diabetes y las enfermedades cardiovasculares. El sobrepeso, la obesidad y las enfermedades conexas son en gran medida prevenibles. Por consiguiente, hay que dar una gran prioridad a la prevención de la obesidad infantil.
@@ -62,6 +66,7 @@ La industria alimentaria puede desempeñar una función importante para reducir 
 #### Bibliografía
 
 [Oranización mundial de la salud](https://www.who.int/dietphysicalactivity/childhood/es/)
+[Portal estadístico Statista] (https://cdn.statcdn.com/Infographic/images/normal/24340.jpeg)
 
 
 

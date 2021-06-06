@@ -10,7 +10,10 @@ Este primer post trata sobre la obesidad infantil como parte del trabajo persona
 
 ![Infografía obesidad infantil](https://www.antavillaschool.com/wp-content/uploads/2018/11/obesidad-infantil-un-compromiso-con-el-que-luchar.jpg)
 
-Personalmente he elegido este tema porque, como madre, es una de las preocupaciones que más me llama la atención. Es algo que a priori puede parecer menos serio que otras enfermedades, pero que entrando al detalle se ve que trae graves consecuencias. Es un tema que me llama la atención para entrar en el detalle, y en la medida de lo posible, poner mi granito de arena en la solución global.
+Personalmente he elegido este tema por dos motivos:
+
+1. Porque, como madre, es una de las preocupaciones que más me llama la atención. Es algo que a priori puede parecer menos serio que otras enfermedades, pero que entrando al detalle se ve que trae graves consecuencias. Es un tema que me llama la atención para entrar en el detalle, y en la medida de lo posible, poner mi granito de arena en la solución global.
+2. En comparación a otros problemas de salud, este es uno que tiene solución en la mayor parte de los casos y por lo tanto el ampliar la profundidad de conocimiento sobre el tema puede ayudar a evitarlo
 
 #### Información
 
@@ -47,6 +50,17 @@ La elección de alimentos saludables para los lactantes y los niños pequeños e
 La falta de información acerca de enfoques sólidos respecto de la nutrición, así como la limitada disponibilidad y asequibilidad de los alimentos sanos contribuyen a agravar el problema. La promoción intensiva de alimentos y bebidas hipercalóricos para los niños y las familias lo exacerban más aún. En algunas sociedades, ciertas pautas culturales muy arraigadas (tales como la creencia generalizada de que un bebé gordo es un bebé sano), pueden alentar a la familias a sobrealimentar a sus niños.
 El mundo, cada vez más urbanizado y digitalizado, ofrece menos posibilidades para la actividad física a través de juegos saludables. Además, el sobrepeso o la obesidad reducen las oportunidades de los niños para participar en actividades físicas grupales. Consiguientemente, se vuelven menos activos físicamente, lo que los predispone a tener cada vez más sobrepeso.
 
+- Genética
+
+Tanto el ambiente como la herencia genética juegan papeles cruciales en el desarrollo de la obesidad, por eso se dice que es una enfermedad compleja. Sin embargo, y especialmente en los casos de obesidad infantil severa, la genética tiene un peso importante. Pese al esfuerzo de los últimos años, los procesos genéticos que subyacen esta enfermedad siguen siendo en gran parte desconocidos. Ahora, un equipo científico liderado por los Dres. Luis Alberto Pérez Jurado, de la U735 CIBERER en la Universidad Pompeu Fabra (UPF), y Jesús Argente, de la Autónoma de Madrid (UAM) y del CIBEROBN, ha realizado un estudio sobre 480 niños españoles que desvela nuevos genes involucrados en la obesidad infantil grave.
+
+“La mayoría de las variantes genéticas detectadas asociadas a obesidad han sido heredadas por los niños de uno los padres, con obesidad más moderada, y probablemente tienen un efecto dominante”, asegura Pérez Jurado, co-líder de la investigación. “La combinación de la carga genética con el ambiente claramente “obesogénico” que ha surgido en los últimos años con las sociedades industrializadas seguramente explique el hecho de que la enfermedad se expresa de forma más evidente en los hijos que en los padres”.
+
+La regulación hipotalámica del apetito y la función hormonal, clave en el sobrepeso
+Varios de los genes descubiertos presentan funciones interrelacionadas con la regulación del apetito, la sensación de saciedad y procesos hormonales. GRIK1 y GRM7 son miembros de la familia de receptores de glutamato, que tienen varios papeles en la fisiología del sistema nervioso central, uno de ellos la regulación del balance de energía y la ingesta. Según Pérez Jurado, “en estudios con ratones se ha visto que la ausencia de otro receptor de glutamato de la misma familia (mGLUR5) lleva a un descenso considerable en el peso”. GRPR es el gen que da lugar al receptor de la gastrina, una hormona encargada de facilitar la digestión en el estómago y promover la sensación de saciedad. “El mal funcionamiento del gen GRPR puede causar dificultades para sentirse saciado y, en consecuencia, provocar una mayor ingesta de comida”, comenta Pérez Jurado. Por otro lado, el gen SLOC4C1 está involucrado, entre otras funciones, en el transporte de las hormonas tiroideas. Estas hormonas se han relacionado en numerosas ocasiones con variaciones de peso, siendo el hipotiroidismo una causa frecuente de sobrepeso.
+
+Por último, los científicos han encontrado una variante en el gen NPY en una familia con varios casos de obesidad severa en al menos tres generaciones, con los varones presentando además un trastorno de déficit de atención e hiperactividad (TDAH). “El gen NPY da lugar a un péptido con funciones moduladoras en el control del balance energético y la conducta, incluyendo la conducta alimentaria. Por este motivo, no resulta extraño que exista un vínculo entre el TDAH y la obesidad, dado que ambos pueden estar causados por trastornos de conducta regulados por el mismo gen”, comenta Clara Serra, primera firmante del artículo e investigadora de la U735 CIBERER en la UPF.
+
 - Prevención
 
 El sobrepeso y la obesidad son en gran medida prevenibles. Las políticas, los entornos, las escuelas y las comunidades son fundamentales, pues condicionan las decisiones de los padres y los niños, y pueden hacer que los alimentos más saludables y la actividad física regular sean la opción más sencilla (accesible, disponible y asequible), previniendo, así, la obesidad.
@@ -77,12 +91,14 @@ La industria alimentaria puede desempeñar una función importante para reducir 
 
 Después de realizar la investigación para este trabajo, me deja aún mas preocupada. La obesidad infantil es algo que lleva a otras consecuencias más graves, la tendencia es completamente negativa y motivada por el cambio de la sociedad. El reducir los tiempos dedicados a las comidas, tanto de preparación como de ingesta, la reducción de la lactancia, la promoción de bebidas calóricas y el aumento de comidas rápidas extracalóricas son consecuencias de la tendencia que se aprecia.
 Pienso que es algo con solución, poniendo en práctica los consejos de la OMS, evitando aun más la promoción de bebidas azucaradas y restaurantes de comida rápida así como realizar más campañas de concienciación de la sociedad.
+Es cierto también que puede existir un porcentaje derivado de la genética personal, de todas formas la mejora de la alimentación y costumbres, tendría un gran efecto de mejora en el problema.
 
 #### Bibliografía
 
 - [Oranización mundial de la salud](https://www.who.int/dietphysicalactivity/childhood/es/)
 - [Portal estadístico Statista](https://es.statista.com/grafico/24340/numero-previsto-de-ninos-de-5-a-19-anos-con-obesidad/)
 - [Ministerio de sanidad](https://www.mscbs.gob.es/estadEstudios/sanidadDatos/tablas/tabla10.htm)
+- [Centro de investigación biomédica en red ciberiiis](https://www.ciberisciii.es/noticias/identifican-nuevos-genes-involucrados-en-la-obesidad-infantil-grave)
 
 ### Contacto
 
